@@ -140,7 +140,7 @@ Even though there are some disagreements, this is an incredibly good answer. GPT
 
 ## So they finally made AGI and the Age of Abundance is coming to my door in 5 seconds, right?
 
-![Lie](assets/truthlie.jpg)
+![Lie](assets/truthlie.jpg)  
 *I can't play audio in this writeup but if I could I would play [this](https://www.youtube.com/watch?v=6Rt7NnRcNEM).*
 
 This test obviously has its limits. It's one prompt on one deck, run once and graded subjectively with significant bias. It definitely doesn't have a place on the same charts that model releases use.
