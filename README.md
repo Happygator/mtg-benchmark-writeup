@@ -2,7 +2,7 @@
 
 Before a new model releases, AI companies run it against many different tests like [Humanity's Last Exam](https://lastexam.ai/) and [Terminal Bench](https://github.com/harbor-framework/terminal-bench). These metrics are very useful for turning the subjective words that the model spits out into objective, comparable numbers. It also lets every AI company create a chart full of numbers that shows how their model is better than all of its competitors.
 
-![chart](asd)
+![chart](assets/Chart.jpg)
 *This is the world's most advanced model, which you can tell because it got higher numbers than all of the other models. It will continue to be the best until a rival releases a new world's most advanced model in 2 days.[^advanced]*
 
 Whenever a new model comes out, I run my own benchmark on it. GPT-6 Astra marks the first time *ever* that I have been satisfied with the output.
@@ -132,7 +132,7 @@ GPT-6 Astra has released very recently[^current] and I decided to run this exper
 | For **stronger Bracket 3**, you have room for two more Game Changers, but filling those slots is optional. Teferi’s Protection would address resilience; Rhystic Study would improve draw, though your spell limits reduce how many opportunities it receives. Neither removes the need to respect the deck’s actual speed and play experience. | |
 | For **Bracket 4**, a concrete route is **Peregrine Drake plus Deadeye Navigator**. With lands producing more than the two mana needed per blink, the pair generates unlimited mana; an available Aether Channeler can draw through the deck, and Terror of the Peaks can convert repeated entries into lethal damage. That is a substantial strategic change, even though neither combo piece is itself a Game Changer. [Peregrine Drake](https://scryfall.com/card/dmr/65/peregrine-drake), [Deadeye Navigator](https://scryfall.com/card/inr/59/deadeye-navigator). | |
 | Ancient Tomb, Mana Vault, and appropriate tutors then improve speed and consistency. Simply adding expensive staples without restructuring the curve would produce a more expensive deck, not necessarily a convincing Bracket 4 deck. | |
-| For **Bracket 2**, replacing Fierce Guardianship with Negate satisfies the Game Changer issue, but does not by itself change how the deck feels. I would also remove the three spell-limit creatures and consider replacing Curious Colossus, Elesh Norn, and Deadeye with cards such as Cloudblazer, Solemn Simulacrum, and Charming Prince. Keep the mana functional; lower the pressure and repeatability of the strongest effects instead. | |
+| For **Bracket 2**, replacing Fierce Guardianship with Negate satisfies the Game Changer issue, but does not by itself change how the deck feels. I would also remove the three spell-limit creatures and consider replacing Curious Colossus, Elesh Norn, and Deadeye with cards such as Cloudblazer, Solemn Simulacrum, and Charming Prince. Keep the mana functional; lower the pressure and repeatability of the strongest effects instead. |Good callout that the deck packs way too much removal for a Bracket 2 environment.|
 | **My first changes would be Scroll Rack, Reconnaissance, and Touch the Spirit Realm.** They directly address expensive cards stranded in hand, unsafe attacks, and blink spells conflicting with your own restrictions. From there, decide whether the table enjoys the spell-limit plan: it is both the deck’s strongest strategic distinction and its largest source of potentially frustrating games. | |
 
 Even though there are some disagreements, this is an incredibly good answer. GPT-6 understood the core gameplan of the deck in a nuanced way and was able to predict many different things that I actually encountered in my playtesting and refinement. Nearly every point that I disagreed with it on could easily have been a matter of opinion and/or local meta. Astra even goes over a majority of the points that Fable missed.
@@ -140,11 +140,11 @@ Even though there are some disagreements, this is an incredibly good answer. GPT
 
 ## So they finally made AGI and the Age of Abundance is coming to my door in 5 seconds, right?
 
-![Lie](asd)
+![Lie](assets/truthlie.jpg)
 *I can't play audio in this writeup but if I could I would play [this](https://www.youtube.com/watch?v=6Rt7NnRcNEM).*
 
 This test obviously has its limits. It's one prompt on one deck, run once and graded subjectively with significant bias. It definitely doesn't have a place on the same charts that model releases use.
-![goofychart](asd)
+![goofychart](assets/goofychart.jpg)
 *Claude Mythos 6 will boast a rating of "He said it was pretty great" when it comes out in 3 months.*
 
 Instead, it's a measure that I can trust because I know Magic very well. LLMs love to make up things and pass them off as real, and in order to be able to fact-check it you need to know the subject extensively. Everyone should have one of these, instead of taking model release articles' numbers at face value. Mine just uses 99 cards and a mouse that shares my name.
