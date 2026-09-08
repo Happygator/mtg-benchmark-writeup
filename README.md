@@ -156,7 +156,7 @@ Astra, the groundbreaking model of today, made almost none of the same mistakes.
 But more notably, none of the three problems for LLMs I outlined have changed between Fable's release and Astra's. LLMs still suck at games, Magic is still complicated, and there's still no good data. The only reason Astra did well was because it could substitute experience with the game with massive bursts of reasoning. But if it can take this approach and make something that rivals a human in an excessively hostile environment for LLMs, then what else can it do?
 
 Maybe with enough engineering, they might even be able to hold their own in an actual Magic game.
-![ending](assets/ending)
+![ending](assets/ending.jpg)
 ...Hopefully it doesn't end up like that.
 
 
