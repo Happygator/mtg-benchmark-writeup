@@ -153,7 +153,7 @@ But the gap between those two responses is the most interesting result I've enco
 
 Astra, the groundbreaking model of today, made almost none of the same mistakes. It counted card categories, ran hypergeometric math on the commander's hit rate, sorted the blink effects by which ones actually beat the end-of-combat return trigger, and independently arrived at conclusions I only reached after many games of playtesting. Where I disagreed with it, I was mostly disagreeing about opinion or local meta, which is the same way I disagree with people. *This level of analysis could easily have come from handing the decklist to a friend.*
 
-But more notably, none of the three problems for LLMs I outlined have changed between Fable's release and Astra's. LLMs still suck at games, Magic is still complicated, and there's still no good data. The only reason Astra did well was because it could substitute experience with the game with massive bursts of reasoning. But if it can take this approach and make something that rivals a human in an excessively hostile environment for LLMs, then what else can it do?
+But more notably, none of the three problems for LLMs I outlined have changed between Fable's release and Astra's. LLMs still suck at games, Magic is still complicated, and there's still no good data. The most likely reason Astra did well was because it could substitute experience with the game with massive bursts of reasoning. But if it can take this approach and make something that rivals a human in an excessively hostile environment for LLMs, then what else can it do?
 
 Maybe with enough engineering, they might even be able to hold their own in an actual Magic game.
 ![ending](assets/ending.jpg)
